@@ -1,29 +1,25 @@
 package com.mycompany.orderexample;
 
-
 import java.util.*;
 
 /**
- * 
+ * Class declaration 
  */
 public class Customer {
   
 
     /**
-     * 
+     *  instance variables 
      */
     private String name;
-
-    /**
-     * 
-     */
     private String location;
     
     /**
      * Default constructor
      */
     public Customer() {
-        
+        this.name = name;
+        this.location =location;
     }
    
 
