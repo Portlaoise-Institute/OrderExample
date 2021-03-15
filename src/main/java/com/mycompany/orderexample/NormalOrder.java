@@ -1,11 +1,8 @@
 package com.mycompany.orderexample;
 
+import java.util.ArrayList;
 
-import java.util.*;
 
-/**
- * 
- */
 public class NormalOrder extends Order {
 
     /**
@@ -15,7 +12,8 @@ public class NormalOrder extends Order {
     }
 
     /**
-     * 
+     * confirm method
+     * return type is void
      */
     public void confirm() {
         // TODO implement here
